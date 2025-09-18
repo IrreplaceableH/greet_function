@@ -1,4 +1,4 @@
-# Question 6 👋
+# Question 6 
 
 # Create a function named greet that takes a single parameter: name.
 # Inside the function, return a greeting message using an f-string that says
